@@ -1,4 +1,4 @@
-# Simple Recurrent Neural Network
+# Simple Recurrent Neural Network            
 This repository contains my code for a simple Convolutional Neural Network built using Tensorflow, Python
 
 
